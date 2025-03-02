@@ -11,6 +11,7 @@ public class Main {
             String domain = email.substring(email.indexOf("@") + 1);
         } else {
             System.out.println("Invalid email address");
+
         }
 
     }
